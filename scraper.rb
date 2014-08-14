@@ -1,3 +1,4 @@
+require 'scraperwiki'
 # Scraper for WikiLeaks Global Intelligence Files
 require 'nokogiri'
 
